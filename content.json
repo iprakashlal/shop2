@@ -381,7 +381,7 @@
   "backend": {
     "enabled": true,
     "provider": "cloudflare",
-    "workerUrl": "https://shop.imprakashlal.workers.dev/",
+    "workerUrl": "https://shop2.imprakashlal.workers.dev/",
     "supabaseUrl": "",
     "anonKey": "",
     "accounts": true,
